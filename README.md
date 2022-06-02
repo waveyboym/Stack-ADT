@@ -6,3 +6,4 @@ Then run the command "make run" after to run the file.
 Then to clear the compiled files, run the command "make clean".
 
 To make changes to the data and functions being run, open the "main.cpp", then you'll be able to change the input string and which functions are being run.
+*You can only compile and run this in a linux environment
