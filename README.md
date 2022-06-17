@@ -1,6 +1,7 @@
 # Stack-ADT
 A stack ADT which checks if a string is a palindrome and uses recursion to traverse through the entire stack in order to determine if it is a palindrome all done in c++
-link to quick run of the app: https://onlinegdb.com/gkVafAhr0 (click the run button in order to run the file
+
+link to quick run of the app: https://onlinegdb.com/gkVafAhr0 (click the run button in order to run the file)
 
 #to run this code you will need to install:
 
