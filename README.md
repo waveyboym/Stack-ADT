@@ -18,7 +18,6 @@ A stack ADT which checks if a string is a palindrome and uses recursion to trave
 4. zip(optional): https://speedysense.com/zip-and-unzip-command-in-ubuntu-terminal/
 5. unzip(optional): https://speedysense.com/zip-and-unzip-command-in-ubuntu-terminal/
 6. gdb: http://www.gdbtutorial.com/tutorial/how-install-gdb
-7. jre: https://ubuntu.com/tutorials/install-jre#1-overview
 
 # to run the code:
 
