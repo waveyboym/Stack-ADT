@@ -4,10 +4,11 @@ A stack ADT which checks if a string is a palindrome and uses recursion to trave
 # link to quick run of the app: 
 
 (EASY) https://onlinegdb.com/gkVafAhr0 (click the run button in order to run the file) 
+
 (a bit complex) https://zjtnxkxhsqqr-dtp.na.app.codingrooms.com (to run this you will see a white bar at the bottom of the page, with small icons towards the left. Hover on the icon that looks like a computer. It should display the word "terminal". Click on that icon then a terminal will show up. When the terminal shows up, you can run these commands:
 1. make (compile all the files)
 2. make run (run the compiled files)
-3. make clean (delete the compiled files)
+3. make clean (delete the compiled files))
 
 # to run this code you will need to install:
 
